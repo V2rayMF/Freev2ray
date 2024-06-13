@@ -1,1 +1,1 @@
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@104.16.125.32:2087?allowInsecure=1&peer=mfjd.591haoka.com&plugin=obfs-local;obfs=websocket;obfs-host=mfjd.591haoka.com;obfs-uri=/?ed=2560#Hong+Kong%F0%9F%9A%80
+dHJvamFuOi8vMGZkOWI4ODMtMDU1MS00ZWQxLWI5NzgtNTI4MTgzYjQ1OWEyQDEwNC4xNi4xMjUuMzI6MjA4Nz90eXBlPXRjcCZzZWN1cml0eT10bHMmc25pPW1mamQuNTkxaGFva2EuY29tJmFsbG93SW5zZWN1cmU9MSNIb25nJTJCS29uZyVGMCU5RiU5QSU4MA==
