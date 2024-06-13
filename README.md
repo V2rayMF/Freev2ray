@@ -1,1 +1,1 @@
-# Freev2ray
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@104.16.125.32:2087?allowInsecure=1&peer=mfjd.591haoka.com&plugin=obfs-local;obfs=websocket;obfs-host=mfjd.591haoka.com;obfs-uri=/?ed=2560#Hong+Kong%F0%9F%9A%80
